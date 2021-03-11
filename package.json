@@ -1,0 +1,22 @@
+{
+  "name": "typescript-patterns",
+  "version": "1.0.0",
+  "description": "typescript design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurogamboa/typescript-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurogamboa/typescript-patterns/issues"
+  },
+  "homepage": "https://github.com/maurogamboa/typescript-patterns#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
